@@ -9,3 +9,6 @@
 ***
 # *[Estudo de Caso: Análise de Vendas com KPI](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Dashboard_KPI)*
 ![image](https://user-images.githubusercontent.com/90532605/193110685-2902f1b9-4486-45b2-8bcb-59b72be6783d.png)
+***
+# *[Estudo de Caso: Séries Temporais. Evolução e Previsão do Desemprego ao Longo do Tempo](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/S%C3%A9ries%20Temporais)*
+![image](https://user-images.githubusercontent.com/90532605/193125861-1087f35c-094d-45c4-a997-6d48ecd6e779.png)
