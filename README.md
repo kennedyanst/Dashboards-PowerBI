@@ -15,3 +15,6 @@
 ***
 # *[Estudo de Caso: Geolocalização e Mapeamento de Clientes por Saldo Bancário](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Geolocalizacao)*
 ![image](https://user-images.githubusercontent.com/90532605/193128513-cca39c66-4dba-4b45-a8dc-e41a8be5f944.png)
+***
+# *[Estudo de Caso: Monitoramento de KPI's](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Monitoramento_KPI)*
+![image](https://user-images.githubusercontent.com/90532605/193129831-9308dab1-10c8-4b39-a8c2-17c54b156547.png)
