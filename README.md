@@ -12,3 +12,6 @@
 ***
 # *[Estudo de Caso: Séries Temporais. Evolução e Previsão do Desemprego ao Longo do Tempo](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/S%C3%A9ries%20Temporais)*
 ![image](https://user-images.githubusercontent.com/90532605/193125861-1087f35c-094d-45c4-a997-6d48ecd6e779.png)
+***
+# *[Estudo de Caso: Geolocalização e Mapeamento de Clientes por Saldo Bancário](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Geolocalizacao)*
+![image](https://user-images.githubusercontent.com/90532605/193128513-cca39c66-4dba-4b45-a8dc-e41a8be5f944.png)
