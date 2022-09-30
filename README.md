@@ -39,3 +39,7 @@
 * Qual o total de faturamento por dia?
 
 ![image](https://user-images.githubusercontent.com/90532605/193175123-4a4ccb8c-547b-4ae0-82e6-62b6eda561c0.png)
+***
+# *[Integração do Power BI com PostgreSQL](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Power%20BI%20e%20PostgreSQL)*
+![image](https://user-images.githubusercontent.com/90532605/193176287-4811b552-8484-4c0f-9e86-c127347f7d8c.png)
+
