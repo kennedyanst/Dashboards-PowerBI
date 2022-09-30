@@ -21,3 +21,6 @@
 ***
 # *[Estudo de Caso: Análise Estatística de Vendas de Carros](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Estatistica)*
 ![image](https://user-images.githubusercontent.com/90532605/193169470-bfbce0a1-a9b9-414f-8fde-1a5b0c1c14f3.png)
+***
+# *[Estudo de Caso: Seguro Saúde](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Dashboards%20Interativos)*
+![image](https://user-images.githubusercontent.com/90532605/193171127-8c1ae4d4-d0f9-4686-9362-cff9b0665e10.png)
