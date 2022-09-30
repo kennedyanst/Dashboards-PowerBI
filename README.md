@@ -18,3 +18,6 @@
 ***
 # *[Estudo de Caso: Monitoramento de KPI's](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Monitoramento_KPI)*
 ![image](https://user-images.githubusercontent.com/90532605/193129831-9308dab1-10c8-4b39-a8c2-17c54b156547.png)
+***
+# *[Estudo de Caso: Análise Estatística de Vendas de Carros](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Estatistica)*
+![image](https://user-images.githubusercontent.com/90532605/193169470-bfbce0a1-a9b9-414f-8fde-1a5b0c1c14f3.png)
