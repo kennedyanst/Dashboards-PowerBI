@@ -31,15 +31,11 @@
 # *[Estudo de Caso: Respondendo Perguntas de Négocios com Google Analytics](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Google%20Analytics)*
 
 ## Perguntas:
-1. Como os clientes mais acessam nosso portal, por busca orgânica ou paga?
+* Como os clientes mais acessam nosso portal, por busca orgânica ou paga?
+* Quanto tempo em média um visitante permanece em nosso portal por dia do mês?
+* Qual a principal fonte de acesso ao nosso portal?
+* Qual o sistema operacional mais usado para acessar nosso portal?
+* Qual o dispositivo mais usado para acesso ao nosso portal?
+* Qual o total de faturamento por dia?
 
-2. Quanto tempo em média um visitante permanece em nosso portal por dia do mês?
-
-3. Qual a principal fonte de acesso ao nosso portal?
-
-4. Qual o sistema operacional mais usado para acessar nosso portal?
-
-5. Qual o dispositivo mais usado para acesso ao nosso portal?
-
-6. Qual o total de faturamento por dia?
 ![image](https://user-images.githubusercontent.com/90532605/193175123-4a4ccb8c-547b-4ae0-82e6-62b6eda561c0.png)
