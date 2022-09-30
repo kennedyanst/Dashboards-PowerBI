@@ -24,3 +24,6 @@
 ***
 # *[Estudo de Caso: Seguro Saúde](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Dashboards%20Interativos)*
 ![image](https://user-images.githubusercontent.com/90532605/193171127-8c1ae4d4-d0f9-4686-9362-cff9b0665e10.png)
+***
+#*[Dashboard para Mobile](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Dashboards%20Interativos)*
+![image](https://user-images.githubusercontent.com/90532605/193174124-8143fe44-c3a0-4e13-99b0-9709782cb7cb.png)
