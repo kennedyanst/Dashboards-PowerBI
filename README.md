@@ -48,3 +48,4 @@
 ![image](https://user-images.githubusercontent.com/90532605/193432959-33a01f2a-ff00-4b36-8086-eb90b6e08a89.png)
 ***
 # *[Dashboard no Power BI com Linguagem Python](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Power%20BI%20com%20Python)*
+![image](https://user-images.githubusercontent.com/90532605/193481275-195e35a7-aac3-4c30-9bd1-3b2c529b2ece.png)
