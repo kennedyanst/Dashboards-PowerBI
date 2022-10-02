@@ -43,6 +43,6 @@
 # *[Integração do Power BI com PostgreSQL](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Power%20BI%20e%20PostgreSQL)*
 ![image](https://user-images.githubusercontent.com/90532605/193176287-4811b552-8484-4c0f-9e86-c127347f7d8c.png)
 ***
-# *Gráficos com R no Power BI*
+# *[Gráficos com R no Power BI](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Power%20BI%20com%20R)*
 ![image](https://user-images.githubusercontent.com/90532605/193432923-c876b528-0d70-407a-b4b6-b4b4f4e08906.png)
 ![image](https://user-images.githubusercontent.com/90532605/193432959-33a01f2a-ff00-4b36-8086-eb90b6e08a89.png)
