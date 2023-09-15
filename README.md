@@ -1,4 +1,4 @@
-![image](https://github.com/kennedyanst/Dashboards-PowerBI/assets/90532605/57f10277-1dca-411b-8e36-da37339fec3c)# Dashboards-PowerBI
+# Dashboards-PowerBI
  Dashboards do Power BI, feitos por mim, durante o curso de Análise de Dados com Power BI da Data Science Academy
 ***
 # *[Estudo de Caso: Análise de Vendas de Carros](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Primeiros%20Passos%20com%20Power%20BI)*
