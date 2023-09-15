@@ -1,4 +1,4 @@
-# Dashboards-PowerBI
+![image](https://github.com/kennedyanst/Dashboards-PowerBI/assets/90532605/57f10277-1dca-411b-8e36-da37339fec3c)# Dashboards-PowerBI
  Dashboards do Power BI, feitos por mim, durante o curso de Análise de Dados com Power BI da Data Science Academy
 ***
 # *[Estudo de Caso: Análise de Vendas de Carros](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Primeiros%20Passos%20com%20Power%20BI)*
@@ -49,3 +49,9 @@
 ***
 # *[Dashboard no Power BI com Linguagem Python](https://github.com/kennedyanst/Dashboards-PowerBI/tree/main/Power%20BI%20com%20Python)*
 ![image](https://user-images.githubusercontent.com/90532605/193481275-195e35a7-aac3-4c30-9bd1-3b2c529b2ece.png)
+***
+# *[Dashboard no Power BI - Indicadores de recebimentos em um call center]*
+![image](https://github.com/kennedyanst/Dashboards-PowerBI/assets/90532605/10afd8e5-a865-464d-aab7-2bdcf0ff8e58)
+***
+# *[Dashboard no Power BI - Indicadores de produção em um call center]*
+![image](https://github.com/kennedyanst/Dashboards-PowerBI/assets/90532605/8c0ba540-9732-4867-9eb7-0dc751038d16)
